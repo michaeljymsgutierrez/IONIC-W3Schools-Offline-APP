@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vielsoft-dev-6/Desktop/w3SchoolsOffline/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0092bc9c7b63acd00039b6d5a033556d9963a773">
+        <dex dex="/home/vielsoft-dev-6/Desktop/w3SchoolsOffline/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_9bd129ff930f1685851b99ca5ccc71335ea30f49.jar" />
+    </item>
+
+</items>
