@@ -1,5 +1,5 @@
 # IONIC-W3Schools-Offline-APP
-</br>
+
 </br>Note: After cloning this repo..
 </br>1. Go to the poroject folder and browse the www/templates/</br>
 </br>2. Inside the folder templates you  will see the zip file..</br>
@@ -8,4 +8,4 @@
 </br>
 
 </br></br>
-Download APK: https://1drv.ms/u/s!AhqDVIMYJ3M0p3hKudkyZavCErfh
+Download APK: https://1drv.ms/u/s!AhqDVIMYJ3M0qRGl6U-Pv6ZtRecf
