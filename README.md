@@ -8,4 +8,5 @@
 </br>
 
 </br></br>
-Download APK: 
+Download APK: https://1drv.ms/u/s!AhqDVIMYJ3M0qTCPEiEhRqH1IKNZ
+Download ZIP: https://1drv.ms/u/s!AhqDVIMYJ3M0qTERzc0UwR1ftQRZ
